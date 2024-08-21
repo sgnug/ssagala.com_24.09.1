@@ -1,0 +1,36 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: "\U000025C8"
+theme: Papermod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hello. I'm Ssagala Ndugwa."
+    Content: >-
+      I've been this earth since earth the 80s and on the internet since the 90s. 
+      
+      
+      Welcome to my little corner of the web. 
+
+    
+
+  
+
+assets:
+  favicon16x16: /assets/favicon-16x16.png
+  favicon32x32: /assets/favicon-32x32.png
+  apple_touch_icon: /assets/apple-touch-icon.png
+
+favicon: /assets/favicon.ico
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: about
+    name: About
+    url: /about/
+    weight: 30
