@@ -1,21 +1,15 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: "\U000025C8"
+title: "⬧︎♑︎■︎"
 theme: Papermod
 
 params:
   defaultTheme: dark
   homeInfoParams:
-    Title: "Hello. I'm Ssagala Ndugwa."
+    Title: "Ogamba otya. 🇺🇬"
     Content: >-
-      I've been this earth since earth the 80s and on the internet since the 90s. 
-      
       
       Welcome to my little corner of the web. 
-
-    
-
-  
 
 assets:
   favicon16x16: /assets/favicon-16x16.png

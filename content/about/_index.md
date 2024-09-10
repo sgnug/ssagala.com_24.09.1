@@ -1,51 +1,43 @@
 ---
-title: "About"
+title: "Hey there!"
 date: 2024-08-14
 draft: false
 ShowToc: true
 ---
 
-Hey there!
 
-I’m Ssagala Godfrey Ndugwa, a media producer and writer from Kampala, Uganda.
-
-This is my site.
-
-![Ssagala Godfrey Ndugwa](ssagala_ndugwa.webp)
+I’m Ssagala Godfrey Ndugwa. Hardly seen, but always around.
 
 ## Work
 
-I currently work as a Media Producer at [Red Clay Ltd](https://redclay.ug), with my main focus being the Sawasawa Project. 
-
-Sawasawa is an entertainment and educational project that aims to create and distribute locally-made media to young adults in East Africa. We strongly believe that African stories should dominate African screens, and we work towards achieving that goal every day. 
-
-I also dabble in real estate and securities investing. I am very much stillma beginner in both.  
+I am a media producer at [Red Clay Ltd](https://redclay.ug) and with the Sawasawa Project - an entertainment and educational channel that creates and distributes locally-made media to young adults in East Africa. 
    
 
 ## Some random facts about me
 
-- I spend my days creating and producing: words, music, videos and custom projects for clients. 
-- I love reading. Physical books > tablets.
-- I also love television, movies and the internet. 
-- I used to DJ and to host a weekly new music radio show as Mister Deejay.
-- I have done some work in front of camera, but I find my true place is behind the scenes. 
+- I spend my days creating and maintaining things. Mainly words, music and videos. 
+- I have done some work in front of camera/mic/, but I my real happy place is behind the scenes. 
 - I am an occasional Wordpress Wrangler and know just enough about software to get myself into trouble.
-- I am happily married to a fantastic woman who is also the love of my life, and I consider myself very lucky in that regard. 
-- I have a daughter, and being her dad is one of my most cherised roles.
+- I once worked as a radio DJ and tv presenter under the name Mister Deejay. (I'm obviously an excellent name-chooser)
+- I love reading. Physical books over tablets. Audiobooks count. 
+- I also love television, movies and the internet. 
+- I am happily married to a fantastic woman, the absolute love of my life.
+- I have a wonderful daughter, who is my limitless source of joy.
 
-
-
+Those last two facts in particular make me happy, content, and grateful for my life.
 
 ## Contact
 
-My communication medium of choice is email: ssagala[at]gmail[dot]com. 
+The best way to reach me is via email: ssagala[at]gmail[dot]com. 
 
-It may take a few days, but I reply to everything. 
+I respond to (almost) everything. 
 
-I am not on social media much anymore, but I am on Whatsapp at +256 789 800 700.
-
+I am not on social media that much anymore (because age, life, etc), but I am on Whatsapp at [plus two five six] 789 800 700.
 
 Thanks for stopping by my little corner of the web!
+
+
+![Ssagala Godfrey Ndugwa](ssagala_ndugwa.webp)
 
 Have a fantastic day!
 
