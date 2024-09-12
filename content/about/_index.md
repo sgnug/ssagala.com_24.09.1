@@ -6,7 +6,7 @@ ShowToc: true
 ---
 
 
-I’m Ssagala Godfrey Ndugwa. Hardly seen, but always around.
+I’m Ssagala Godfrey Ndugwa.
 
 ## Work
 
@@ -19,12 +19,12 @@ I am a media producer at [Red Clay Ltd](https://redclay.ug) and with the Sawasaw
 - I have done some work in front of camera/mic/, but I my real happy place is behind the scenes. 
 - I am an occasional Wordpress Wrangler and know just enough about software to get myself into trouble.
 - I once worked as a radio DJ and tv presenter under the name Mister Deejay. (I'm obviously an excellent name-chooser)
-- I love reading. Physical books over tablets. Audiobooks count. 
+- I love reading. Physical books over tablets, and audiobooks count. 
 - I also love television, movies and the internet. 
 - I am happily married to a fantastic woman, the absolute love of my life.
 - I have a wonderful daughter, who is my limitless source of joy.
 
-Those last two facts in particular make me happy, content, and grateful for my life.
+Those last two facts in particular make me a happy, content, grateful individual.
 
 ## Contact
 
