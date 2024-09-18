@@ -1,7 +1,8 @@
 baseURL: https://ssagala.com/
 languageCode: en-us
 title: "⬧︎♑︎■︎"
-theme: ['github.com/sgnug/hugo-PaperMod']
+theme: /themes/Papermod
+
 
 params:
   defaultTheme: dark
